@@ -4,7 +4,7 @@
 	"description": "A project that does something awesome",
 	"keywords": [ "freecodecamp", "check", "test" ],
 	"license": "MIT",
-	"version": "1.1.1",
+	"version": "1.1.25",
 	"dependencies": {
 		"@freecodecamp/example": "~1.2.13",
 		"express": "4.14.0"
